@@ -9,7 +9,7 @@ picom -b
 #nm-applet &
 #xfce4-power-manager &
 #kdeconnect-indicator &
-#fcitx5 &
+fcitx5 &
 #xfce4-volumed-pulse &
 #/bin/bash ~/scripts/run-mailsync.sh &
 #/bin/bash ~/scripts/setxmodmap-colemak.sh &
